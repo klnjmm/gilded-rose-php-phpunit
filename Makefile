@@ -27,7 +27,7 @@ unit-tests:
 	./vendor/bin/phpunit
 
 .PHONY: unit-tests-coverage
-unit-tests-loop:
+unit-tests-coverage:
 	./vendor/bin/phpunit --coverage-text
 
 .PHONY: code-sniffer
