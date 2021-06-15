@@ -1,0 +1,5 @@
+/.infection.json
+/report.xml 
+/.phpunit.result.cache
+/build
+/vendor
